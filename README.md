@@ -25,7 +25,7 @@ This is my very first frontend project made from the help of "The Web Developer 
 - Javascript
 - JQuery
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Todo-List)
 
 ---
 
@@ -33,7 +33,7 @@ This is my very first frontend project made from the help of "The Web Developer 
 
 Click the area where it says "Add New Todo", type in a task and push enter. Hover over the text of a task and push the text to cross it out. Hover over the text to reveal the trash icon - push this to delete task.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Todo-List)
 
 ---
 
@@ -41,7 +41,7 @@ Click the area where it says "Add New Todo", type in a task and push enter. Hove
 
 www.udemy.com/share/101W9CBkcTc11bQ3Q=/
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Todo-List)
 
 ---
 
@@ -69,7 +69,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Todo-List)
 
 ---
 
@@ -77,4 +77,4 @@ SOFTWARE.
 
 - LinkedIn - www.linkedin.com/in/matthew-umana
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#Todo-List)
